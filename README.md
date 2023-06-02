@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @kwancer - a new user!
-- 👀 I’m interested in programming, engineering and maths.
-- 🌱 I’m currently learning how to use github and git, and how to program more advanced things!
+- 👋 Hi, I’m @kwancer!
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me: Discord: KZY04#7961
 
